@@ -1,4 +1,4 @@
-# SheHacks Sign Detection
+# Sign Language Recognition System
 
 ## Our Objective ✔️
 
