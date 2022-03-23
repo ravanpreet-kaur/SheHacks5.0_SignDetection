@@ -1,10 +1,10 @@
 # Sign Language Recognition System
 
-## Our Objective ✔️
+## Our Objective 🎯
 
 We seek to enable fluid translations between those hard of hearing and others, and break through the conversational barriers.
 
-## How can we serve? 🔧
+## How can we serve?
 
 A person with hearing or speech impairment interacts with the sign language recognition interface using sign language.  
 The system makes use of a webcam to stream video and detects the signs.  
@@ -21,7 +21,7 @@ Due to the time constraints, our project <em>prioritizes</em> implementation of
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾ <b>deep learning techniques</b> for training our model, with a limited diction of words, to detect the signs and translate them into English.
 
 
-## Our Future Aims 📈
+## Future Development 📈
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾ to make virtual conferences easy and effortless with sign-to-speech conversions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾ to advance towards a two-way communication channel  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾ to include sign languages from across the globe
@@ -53,5 +53,5 @@ Due to the time constraints, our project <em>prioritizes</em> implementation of
 
 <samp><b>Did you know?</b>  
 &nbsp;&nbsp;&nbsp;&nbsp; 🧏‍♀️ Sign Language is not universal!  
-&nbsp;&nbsp;&nbsp;&nbsp; ⭐ There are betwenn 138 and 300 different types of sign language used across the world?</samp>
+&nbsp;&nbsp;&nbsp;&nbsp; ⭐ There are betwenn 138 and 300 different types of sign language used across the world!</samp>
 
